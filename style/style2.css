@@ -1,0 +1,25 @@
+h2 {
+    color: blueviolet;
+}
+
+body {
+    background-image: url(loginimg.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(228, 219, 218);
+    text-align: center;
+    border: 5px solid black;
+
+}
+
+p {
+    color: white;
+}
+
+li {
+    list-style: none;
+    display:inline-block ;
+
+}
