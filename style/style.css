@@ -5,24 +5,42 @@
 body {
     background-image: url(background.jpg);
     background-size: cover;
-
 }
 
 
 h2 {
     color: rgb(228, 219, 218);
     text-align: center;
-    border: 5px solid black;
+    border: 5px solid white;
     cursor: pointer;
 
 }
 
 p {
     color: white;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 100px;
 }
 
 li {
     list-style: none;
     display:inline-block ;
 
+}
+
+.Subscribtion {
+    border: 5px solid white;
+}
+
+.Creators {
+    border: 5px solid white;
+}
+
+.Library {
+    border: 5px solid white;
+}
+
+#div1 {
+    background: rgba(0, 0, 255, 0.2);
 }
