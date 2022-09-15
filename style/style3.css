@@ -22,6 +22,10 @@ p {
     font-weight: bold;   
     font-family: 'Poiret One', cursive;
   }
+
+  footer {
+    text-align: center;
+  }
 li {
     list-style: none;
     display:inline-block ;

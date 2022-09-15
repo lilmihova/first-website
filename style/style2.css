@@ -4,20 +4,25 @@ h2 {
 
 body {
     background-image: url(loginimg.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
 }
 
 h2 {
     color: rgb(228, 219, 218);
     text-align: center;
-    border: 5px solid black;
+    border: 5px solid white;
 
 }
 
-p {
-    color: white;
+.boxmodel {
+    border:5px solid white;
+    display:inline-block;
+    padding: 5px 20px 5px 20px;
+    text-align: right;
+    margin: 20px;
 }
-
 li {
     list-style: none;
     display:inline-block ;

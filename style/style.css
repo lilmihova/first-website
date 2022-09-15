@@ -2,13 +2,15 @@
     Property: value;
 }*/
 
+
 body {
-    background-image: url(background.jpg);
+    background-image: url(background.jpg); 
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 
-h2 {
+h1 {
     color: rgb(228, 219, 218);
     text-align: center;
     border: 5px solid white;
@@ -16,7 +18,7 @@ h2 {
 
 }
 
-p {
+h3 {
     color: white;
     text-align: center;
     text-transform: uppercase;
@@ -41,6 +43,6 @@ li {
     border: 5px solid white;
 }
 
-#div1 {
-    background: rgba(0, 0, 255, 0.2);
+#menuoptions * {
+    background: rgba(175, 175, 240, 0.2);
 }
